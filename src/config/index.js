@@ -12,12 +12,4 @@ if (envFound.error) {
 
 module.exports = {
     port: parseInt(process.env.PORT, 10),
-
-    ConnectMysql: mysql.createConnection({
-        host: process.env.HOST,
-        user: process.env.USERNAME,
-        password: process.env.PASSWORD,
-        database: process.env.DATABASE,
-    })
-
 };

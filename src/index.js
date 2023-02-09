@@ -6,6 +6,7 @@ const {initapp} = require('./config/appConfig.js')
 const cluster = require('cluster')
 const process = require('process')
 const os = require('os')
+const format = require("./routes/format");
 
 // init variable
 
@@ -45,17 +46,7 @@ if (cluster.isPrimary) {
     }).on('error', err => {
         console.log(err)
     });
-
-    config.ConnectMysql.connect(function (err) {
-        if (err) {
-            console.error("Error connecting: " + err.stack);
-            return;
-        }
-        console.log("Connected as thread id: " + config.ConnectMysql.threadId);
-    });
-
-
 }
 
 initapp(app)
-
+app.use("/format", format);

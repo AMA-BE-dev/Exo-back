@@ -1,0 +1,4302 @@
+{
+    "CVSelected": [
+        {
+            "name": "Clara  TSENG",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Rohan Nowak",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "04/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Alexandre Grogna",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Eliza Fabian",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 3
+                },
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Bonivan EYENE",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 7
+                },
+                {
+                    "name": "05/23",
+                    "value": 5
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Ryan Portelli-Hale",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 26
+                },
+                {
+                    "name": "03/23",
+                    "value": 1
+                },
+                {
+                    "name": "04/23",
+                    "value": 3
+                },
+                {
+                    "name": "06/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Alin spiridon",
+            "series": [
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Luca Ondoli",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 3
+                },
+                {
+                    "name": "03/23",
+                    "value": 5
+                },
+                {
+                    "name": "04/23",
+                    "value": 1
+                },
+                {
+                    "name": "05/23",
+                    "value": 5
+                },
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Maïwenn MONTALAND",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 4
+                },
+                {
+                    "name": "03/23",
+                    "value": 11
+                },
+                {
+                    "name": "04/23",
+                    "value": 14
+                },
+                {
+                    "name": "05/23",
+                    "value": 3
+                },
+                {
+                    "name": "06/23",
+                    "value": 4
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Mac Donald  Jessica ",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "03/23",
+                    "value": 1
+                },
+                {
+                    "name": "04/23",
+                    "value": 3
+                },
+                {
+                    "name": "04/23",
+                    "value": 8
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Simon Guyaux",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 2
+                },
+                {
+                    "name": "03/23",
+                    "value": 2
+                },
+                {
+                    "name": "04/23",
+                    "value": 5
+                },
+                {
+                    "name": "05/23",
+                    "value": 3
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Hai Dinh Nguyen",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 2
+                },
+                {
+                    "name": "03/23",
+                    "value": 4
+                },
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Elnaz Razmi",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "03/23",
+                    "value": 2
+                },
+                {
+                    "name": "04/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Yassmine El assal",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 14
+                },
+                {
+                    "name": "03/23",
+                    "value": 3
+                },
+                {
+                    "name": "04/23",
+                    "value": 19
+                },
+                {
+                    "name": "05/23",
+                    "value": 9
+                },
+                {
+                    "name": "06/23",
+                    "value": 14
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Merve KERIK",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "03/23",
+                    "value": 3
+                },
+                {
+                    "name": "04/23",
+                    "value": 5
+                },
+                {
+                    "name": "05/23",
+                    "value": 13
+                },
+                {
+                    "name": "06/23",
+                    "value": 7
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "GABRIEL Hamel",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 14
+                },
+                {
+                    "name": "03/23",
+                    "value": 14
+                },
+                {
+                    "name": "04/23",
+                    "value": 15
+                },
+                {
+                    "name": "05/23",
+                    "value": 4
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "VICTOIRE YEMNGA",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 17
+                },
+                {
+                    "name": "03/23",
+                    "value": 31
+                },
+                {
+                    "name": "04/23",
+                    "value": 19
+                },
+                {
+                    "name": "06/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Inès Viollin",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 56
+                },
+                {
+                    "name": "03/23",
+                    "value": 8
+                },
+                {
+                    "name": "04/23",
+                    "value": 3
+                },
+                {
+                    "name": "05/23",
+                    "value": 3
+                },
+                {
+                    "name": "06/23",
+                    "value": 4
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Apolline Crepin",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 70
+                },
+                {
+                    "name": "03/23",
+                    "value": 29
+                },
+                {
+                    "name": "04/23",
+                    "value": 14
+                },
+                {
+                    "name": "05/23",
+                    "value": 16
+                },
+                {
+                    "name": "06/23",
+                    "value": 9
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Liam Larm",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 46
+                },
+                {
+                    "name": "03/23",
+                    "value": 30
+                },
+                {
+                    "name": "04/23",
+                    "value": 6
+                },
+                {
+                    "name": "05/23",
+                    "value": 7
+                },
+                {
+                    "name": "06/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Marie Léon",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 67
+                },
+                {
+                    "name": "03/23",
+                    "value": 12
+                },
+                {
+                    "name": "04/23",
+                    "value": 12
+                },
+                {
+                    "name": "05/23",
+                    "value": 21
+                },
+                {
+                    "name": "06/23",
+                    "value": 5
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Charles Chevé",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 82
+                },
+                {
+                    "name": "03/23",
+                    "value": 3
+                },
+                {
+                    "name": "04/23",
+                    "value": 16
+                },
+                {
+                    "name": "05/23",
+                    "value": 14
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Jeanne Gallon",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 38
+                },
+                {
+                    "name": "03/23",
+                    "value": 11
+                },
+                {
+                    "name": "04/23",
+                    "value": 3
+                },
+                {
+                    "name": "05/23",
+                    "value": 13
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Rémi Robineau ",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 31
+                },
+                {
+                    "name": "04/23",
+                    "value": 7
+                },
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Lisa Borcy",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Thomas Bourreau",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 15
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "William Casier",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 15
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Sacha Jekic",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 18
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Mohamed Ali Jaujate Ouldkhala",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 7
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Léa Feuillard",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 4
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Alexandra Weiss",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 8
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "CVAMA": [
+        {
+            "name": "Clara  TSENG",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 2
+                },
+                {
+                    "name": "03/23",
+                    "value": 2
+                },
+                {
+                    "name": "04/23",
+                    "value": 6
+                },
+                {
+                    "name": "05/23",
+                    "value": 7
+                },
+                {
+                    "name": "06/23",
+                    "value": 10
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Rohan Nowak",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 3
+                },
+                {
+                    "name": "05/23",
+                    "value": 7
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Alexandre Grogna",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 1
+                },
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Eliza Fabian",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 2
+                },
+                {
+                    "name": "03/23",
+                    "value": 8
+                },
+                {
+                    "name": "05/23",
+                    "value": 11
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Bonivan EYENE",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "03/23",
+                    "value": 10
+                },
+                {
+                    "name": "06/23",
+                    "value": 4
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Ryan Portelli-Hale",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 3
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Luca Ondoli",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "03/23",
+                    "value": 1
+                },
+                {
+                    "name": "04/23",
+                    "value": 19
+                },
+                {
+                    "name": "05/23",
+                    "value": 11
+                },
+                {
+                    "name": "06/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Maïwenn MONTALAND",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 3
+                },
+                {
+                    "name": "04/23",
+                    "value": 3
+                },
+                {
+                    "name": "05/23",
+                    "value": 3
+                },
+                {
+                    "name": "06/23",
+                    "value": 5
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Mac Donald  Jessica ",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 3
+                },
+                {
+                    "name": "04/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Simon Guyaux",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 1
+                },
+                {
+                    "name": "05/23",
+                    "value": 3
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Hai Dinh Nguyen",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 2
+                },
+                {
+                    "name": "03/23",
+                    "value": 3
+                },
+                {
+                    "name": "05/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Elnaz Razmi",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Merve KERIK",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "GABRIEL Hamel",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "VICTOIRE YEMNGA",
+            "series": [
+                {
+                    "name": "05/23",
+                    "value": 6
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Inès Viollin",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 4
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Apolline Crepin",
+            "series": [
+                {
+                    "name": "05/23",
+                    "value": 7
+                },
+                {
+                    "name": "06/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Liam Larm",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Marie Léon",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Mohamed Ali Jaujate Ouldkhala",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "ActionCandidate": [
+        {
+            "name": "Clara  TSENG",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "03/23",
+                    "value": 3
+                },
+                {
+                    "name": "04/23",
+                    "value": 5
+                },
+                {
+                    "name": "05/23",
+                    "value": 4
+                },
+                {
+                    "name": "06/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Rohan Nowak",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 16
+                },
+                {
+                    "name": "04/23",
+                    "value": 20
+                },
+                {
+                    "name": "05/23",
+                    "value": 21
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Alexandre Grogna",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 24
+                },
+                {
+                    "name": "03/23",
+                    "value": 15
+                },
+                {
+                    "name": "04/23",
+                    "value": 9
+                },
+                {
+                    "name": "05/23",
+                    "value": 8
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Eliza Fabian",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "03/23",
+                    "value": 9
+                },
+                {
+                    "name": "04/23",
+                    "value": 9
+                },
+                {
+                    "name": "05/23",
+                    "value": 10
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Bonivan EYENE",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 18
+                },
+                {
+                    "name": "03/23",
+                    "value": 10
+                },
+                {
+                    "name": "04/23",
+                    "value": 1
+                },
+                {
+                    "name": "05/23",
+                    "value": 6
+                },
+                {
+                    "name": "06/23",
+                    "value": 5
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Ryan Portelli-Hale",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 5
+                },
+                {
+                    "name": "03/23",
+                    "value": 59
+                },
+                {
+                    "name": "04/23",
+                    "value": 18
+                },
+                {
+                    "name": "06/23",
+                    "value": 9
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Alin spiridon",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 27
+                },
+                {
+                    "name": "04/23",
+                    "value": 26
+                },
+                {
+                    "name": "05/23",
+                    "value": 16
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Luca Ondoli",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 14
+                },
+                {
+                    "name": "03/23",
+                    "value": 15
+                },
+                {
+                    "name": "04/23",
+                    "value": 4
+                },
+                {
+                    "name": "05/23",
+                    "value": 4
+                },
+                {
+                    "name": "06/23",
+                    "value": 3
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Maïwenn MONTALAND",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 10
+                },
+                {
+                    "name": "03/23",
+                    "value": 1
+                },
+                {
+                    "name": "04/23",
+                    "value": 34
+                },
+                {
+                    "name": "05/23",
+                    "value": 16
+                },
+                {
+                    "name": "06/23",
+                    "value": 16
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Mac Donald  Jessica ",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 20
+                },
+                {
+                    "name": "04/23",
+                    "value": 16
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Simon Guyaux",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 16
+                },
+                {
+                    "name": "03/23",
+                    "value": 54
+                },
+                {
+                    "name": "04/23",
+                    "value": 22
+                },
+                {
+                    "name": "05/23",
+                    "value": 44
+                },
+                {
+                    "name": "06/23",
+                    "value": 13
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Hai Dinh Nguyen",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 14
+                },
+                {
+                    "name": "03/23",
+                    "value": 18
+                },
+                {
+                    "name": "04/23",
+                    "value": 7
+                },
+                {
+                    "name": "05/23",
+                    "value": 3
+                },
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Elnaz Razmi",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "03/23",
+                    "value": 17
+                },
+                {
+                    "name": "04/23",
+                    "value": 39
+                },
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Yassmine El assal",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 38
+                },
+                {
+                    "name": "05/23",
+                    "value": 19
+                },
+                {
+                    "name": "06/23",
+                    "value": 16
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Merve KERIK",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 6
+                },
+                {
+                    "name": "05/23",
+                    "value": 15
+                },
+                {
+                    "name": "06/23",
+                    "value": 11
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "GABRIEL Hamel",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 10
+                },
+                {
+                    "name": "04/23",
+                    "value": 6
+                },
+                {
+                    "name": "05/23",
+                    "value": 4
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "VICTOIRE YEMNGA",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 19
+                },
+                {
+                    "name": "03/23",
+                    "value": 29
+                },
+                {
+                    "name": "04/23",
+                    "value": 33
+                },
+                {
+                    "name": "05/23",
+                    "value": 51
+                },
+                {
+                    "name": "06/23",
+                    "value": 34
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Inès Viollin",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 3
+                },
+                {
+                    "name": "03/23",
+                    "value": 18
+                },
+                {
+                    "name": "04/23",
+                    "value": 71
+                },
+                {
+                    "name": "05/23",
+                    "value": 53
+                },
+                {
+                    "name": "06/23",
+                    "value": 13
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Apolline Crepin",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 13
+                },
+                {
+                    "name": "03/23",
+                    "value": 41
+                },
+                {
+                    "name": "04/23",
+                    "value": 75
+                },
+                {
+                    "name": "05/23",
+                    "value": 60
+                },
+                {
+                    "name": "06/23",
+                    "value": 15
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Liam Larm",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 30
+                },
+                {
+                    "name": "04/23",
+                    "value": 27
+                },
+                {
+                    "name": "05/23",
+                    "value": 8
+                },
+                {
+                    "name": "06/23",
+                    "value": 5
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Marie Léon",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 19
+                },
+                {
+                    "name": "03/23",
+                    "value": 125
+                },
+                {
+                    "name": "04/23",
+                    "value": 55
+                },
+                {
+                    "name": "05/23",
+                    "value": 49
+                },
+                {
+                    "name": "06/23",
+                    "value": 6
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Charles Chevé",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "03/23",
+                    "value": 22
+                },
+                {
+                    "name": "04/23",
+                    "value": 43
+                },
+                {
+                    "name": "05/23",
+                    "value": 28
+                },
+                {
+                    "name": "06/23",
+                    "value": 9
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Jeanne Gallon",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 15
+                },
+                {
+                    "name": "04/23",
+                    "value": 18
+                },
+                {
+                    "name": "05/23",
+                    "value": 12
+                },
+                {
+                    "name": "06/23",
+                    "value": 8
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Rémi Robineau ",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 7
+                },
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Sacha Jekic",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Mohamed Ali Jaujate Ouldkhala",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 3
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Léa Feuillard",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 3
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Alexandra Weiss",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 11
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "ActionConsultant": [
+        {
+            "name": "Clara  TSENG",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Rohan Nowak",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 2
+                },
+                {
+                    "name": "04/23",
+                    "value": 6
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Alexandre Grogna",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "04/23",
+                    "value": 1
+                },
+                {
+                    "name": "05/23",
+                    "value": 7
+                },
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Eliza Fabian",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 4
+                },
+                {
+                    "name": "04/23",
+                    "value": 1
+                },
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Ryan Portelli-Hale",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 8
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Luca Ondoli",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Mac Donald  Jessica ",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 1
+                },
+                {
+                    "name": "05/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Simon Guyaux",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 3
+                },
+                {
+                    "name": "04/23",
+                    "value": 13
+                },
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "VICTOIRE YEMNGA",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Inès Viollin",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "firstCall": [
+        {
+            "name": "Alexandre Schmidt",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Clara  TSENG",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 2
+                },
+                {
+                    "name": "04/23",
+                    "value": 4
+                },
+                {
+                    "name": "05/23",
+                    "value": 2
+                },
+                {
+                    "name": "06/23",
+                    "value": 3
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Rohan Nowak",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 5
+                },
+                {
+                    "name": "04/23",
+                    "value": 2
+                },
+                {
+                    "name": "05/23",
+                    "value": 8
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Alexandre Grogna",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 12
+                },
+                {
+                    "name": "03/23",
+                    "value": 7
+                },
+                {
+                    "name": "04/23",
+                    "value": 15
+                },
+                {
+                    "name": "05/23",
+                    "value": 5
+                },
+                {
+                    "name": "06/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Christophe Poisson",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Eliza Fabian",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 4
+                },
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Bonivan EYENE",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 5
+                },
+                {
+                    "name": "03/23",
+                    "value": 3
+                },
+                {
+                    "name": "05/23",
+                    "value": 3
+                },
+                {
+                    "name": "06/23",
+                    "value": 4
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Ryan Portelli-Hale",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 2
+                },
+                {
+                    "name": "03/23",
+                    "value": 25
+                },
+                {
+                    "name": "04/23",
+                    "value": 3
+                },
+                {
+                    "name": "06/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Alin spiridon",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 10
+                },
+                {
+                    "name": "04/23",
+                    "value": 19
+                },
+                {
+                    "name": "05/23",
+                    "value": 9
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Luca Ondoli",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 9
+                },
+                {
+                    "name": "03/23",
+                    "value": 6
+                },
+                {
+                    "name": "04/23",
+                    "value": 3
+                },
+                {
+                    "name": "06/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Maïwenn MONTALAND",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 11
+                },
+                {
+                    "name": "03/23",
+                    "value": 9
+                },
+                {
+                    "name": "04/23",
+                    "value": 13
+                },
+                {
+                    "name": "05/23",
+                    "value": 10
+                },
+                {
+                    "name": "06/23",
+                    "value": 8
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Mac Donald  Jessica ",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 7
+                },
+                {
+                    "name": "04/23",
+                    "value": 18
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Simon Guyaux",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 5
+                },
+                {
+                    "name": "03/23",
+                    "value": 19
+                },
+                {
+                    "name": "04/23",
+                    "value": 8
+                },
+                {
+                    "name": "05/23",
+                    "value": 12
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Hai Dinh Nguyen",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 6
+                },
+                {
+                    "name": "03/23",
+                    "value": 5
+                },
+                {
+                    "name": "04/23",
+                    "value": 1
+                },
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Elnaz Razmi",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 3
+                },
+                {
+                    "name": "04/23",
+                    "value": 94
+                },
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Yassmine El assal",
+            "series": [
+                {
+                    "name": "05/23",
+                    "value": 4
+                },
+                {
+                    "name": "06/23",
+                    "value": 9
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Merve KERIK",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 2
+                },
+                {
+                    "name": "04/23",
+                    "value": 3
+                },
+                {
+                    "name": "05/23",
+                    "value": 9
+                },
+                {
+                    "name": "06/23",
+                    "value": 6
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "GABRIEL Hamel",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "VICTOIRE YEMNGA",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 2
+                },
+                {
+                    "name": "03/23",
+                    "value": 3
+                },
+                {
+                    "name": "04/23",
+                    "value": 10
+                },
+                {
+                    "name": "05/23",
+                    "value": 7
+                },
+                {
+                    "name": "06/23",
+                    "value": 16
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Inès Viollin",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 7
+                },
+                {
+                    "name": "04/23",
+                    "value": 27
+                },
+                {
+                    "name": "05/23",
+                    "value": 20
+                },
+                {
+                    "name": "06/23",
+                    "value": 6
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Apolline Crepin",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 20
+                },
+                {
+                    "name": "04/23",
+                    "value": 35
+                },
+                {
+                    "name": "05/23",
+                    "value": 26
+                },
+                {
+                    "name": "06/23",
+                    "value": 11
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Liam Larm",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 10
+                },
+                {
+                    "name": "04/23",
+                    "value": 11
+                },
+                {
+                    "name": "05/23",
+                    "value": 3
+                },
+                {
+                    "name": "06/23",
+                    "value": 3
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Marie Léon",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 45
+                },
+                {
+                    "name": "04/23",
+                    "value": 22
+                },
+                {
+                    "name": "05/23",
+                    "value": 19
+                },
+                {
+                    "name": "06/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Charles Chevé",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "03/23",
+                    "value": 12
+                },
+                {
+                    "name": "04/23",
+                    "value": 30
+                },
+                {
+                    "name": "05/23",
+                    "value": 11
+                },
+                {
+                    "name": "06/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Jeanne Gallon",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 4
+                },
+                {
+                    "name": "04/23",
+                    "value": 9
+                },
+                {
+                    "name": "05/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Rémi Robineau ",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 1
+                },
+                {
+                    "name": "04/23",
+                    "value": 4
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Chayma Fataiha",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "William Casier",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Alexandra Weiss",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 3
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "FtF": [
+        {
+            "name": "guillaume Truel",
+            "series": [
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Clara  TSENG",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Rohan Nowak",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 4
+                },
+                {
+                    "name": "04/23",
+                    "value": 3
+                },
+                {
+                    "name": "05/23",
+                    "value": 7
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Alexandre Grogna",
+            "series": [
+                {
+                    "name": "05/23",
+                    "value": 3
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Eliza Fabian",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 1
+                },
+                {
+                    "name": "04/23",
+                    "value": 2
+                },
+                {
+                    "name": "05/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Bonivan EYENE",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 1
+                },
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Ryan Portelli-Hale",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 4
+                },
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Alin spiridon",
+            "series": [
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Luca Ondoli",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 3
+                },
+                {
+                    "name": "03/23",
+                    "value": 2
+                },
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Maïwenn MONTALAND",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 1
+                },
+                {
+                    "name": "04/23",
+                    "value": 1
+                },
+                {
+                    "name": "05/23",
+                    "value": 4
+                },
+                {
+                    "name": "06/23",
+                    "value": 4
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Mac Donald  Jessica ",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 3
+                },
+                {
+                    "name": "04/23",
+                    "value": 14
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Simon Guyaux",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 2
+                },
+                {
+                    "name": "04/23",
+                    "value": 2
+                },
+                {
+                    "name": "05/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Hai Dinh Nguyen",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 2
+                },
+                {
+                    "name": "04/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "VICTOIRE YEMNGA",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 2
+                },
+                {
+                    "name": "05/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Apolline Crepin",
+            "series": [
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Liam Larm",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 5
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Marie Léon",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 1
+                },
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Charles Chevé",
+            "series": [
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "consultantAdd": [
+        {
+            "name": "Clara  TSENG",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 2
+                },
+                {
+                    "name": "04/23",
+                    "value": 1
+                },
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Alexandre Grogna",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "05/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Bonivan EYENE",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Simon Guyaux",
+            "series": [
+                {
+                    "name": "04/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "GABRIEL Hamel",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 2
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "VICTOIRE YEMNGA",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "consultantRemove": [
+        {
+            "name": "Clara  TSENG",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Alexandre Grogna",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Bonivan EYENE",
+            "series": [
+                {
+                    "name": "02/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Maïwenn MONTALAND",
+            "series": [
+                {
+                    "name": "03/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                },
+                {
+                    "name": "06/23",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "VICTOIRE YEMNGA",
+            "series": [
+                {
+                    "name": "06/23",
+                    "value": 1
+                },
+                {
+                    "name": "01/23",
+                    "value": 0
+                },
+                {
+                    "name": "02/23",
+                    "value": 0
+                },
+                {
+                    "name": "03/23",
+                    "value": 0
+                },
+                {
+                    "name": "04/23",
+                    "value": 0
+                },
+                {
+                    "name": "05/23",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "interview": []
+}
